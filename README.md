@@ -1,7 +1,6 @@
-### Oie 👋
+### Olá! 👋
 
 - 🔭 Trabalhando em 34350 coisas ao mesmo tempo
-- 🌱 Estou apredendo c++ com o energy
+- 🌱 Estou aprendendo C++
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: eu ja instalei um windows em cima do outro por acidente sem formatar o pc antes
-
+- ⚡ Fun fact: Eu já instalei um Windows em cima do outro por acidente, por causa que eu não apaguei disco antes.
